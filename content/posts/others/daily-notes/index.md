@@ -20,3 +20,9 @@ description: "记录日常里值得记下的小事和想法。"
 ## 2026-11-23 · 怎么开始照顾自己
 
 平时没留意的身体变化，一口气列出来会显得很多。可以先挑一件能约时间解决的事，比如发现疑似蛀洞就约牙医。容易忘的日常护理，可以接在已经做得很熟的动作后面，比如晚间刷牙时顺手用牙线，洗完澡趁皮肤还有点湿就抹保湿霜。对偶尔出现、很难回想的症状，发作时记下时间、持续多久和当时在做什么，复诊时比事后凭印象描述更有用。[美国牙科协会：口腔护理](https://www.mouthhealthy.org/oral-health-recommendations/) · [美国皮肤病学会：干燥皮肤护理](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin) · [英国国民医疗服务体系：头痛](https://www.nhs.uk/symptoms/headaches/)
+
+## 2026-11-23 · 为什么大家都在说「修复前额叶」？
+
+「前额叶受损」成了社交平台上的自嘲。熬夜刷手机、做事容易分心、明知道该睡却停不下来，都能被塞进同一个说法。它让人更容易聊起自己的状态，也很容易把一时的表现说成大脑受了伤。[央视网：前额叶受损为何成了热梗](https://jiankang.cctv.cn/2026/08/12/ARTIJhoqZb2YefQDi5pgw88m260811.shtml)
+
+前额叶参与维持目标、调整计划和控制冲动，这些能力的表现会受当下状态影响。比如急性压力会暂时干扰前额叶相关功能。短视频研究观察到的注意力关联也有多种解释：本来就容易分心的人，可能也更常刷短视频。对自己来说，可以从一个具体问题开始，比如最近是不是总在睡前停不下手机。试着改变睡前的安排，观察第二天做事有没有更容易集中。这个变化可以用自己一天过得怎样来判断。[耶鲁大学 Arnsten 实验室：压力与前额叶功能](https://medicine.yale.edu/lab/arnsten/research/uncontrollable/) · [BMJ Public Health：短视频与认知研究综述](https://bmjpublichealth.bmj.com/content/4/3/e004086)
